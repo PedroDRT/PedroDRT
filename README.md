@@ -20,7 +20,7 @@
 
  ### 📌 Mais sobre mim:
 
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas na FATEC Jundiaí-SP 
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas na FATEC Jundiaí-SP 
 - 🎓 Formado como Técnico em Informática pelo SENAC Jundiaí-SP 
 - ⚽ Futebol é uma das minhas maiores paixões!  
 - 🦾 Sempre disposto a novidades! 
